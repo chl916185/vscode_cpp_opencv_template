@@ -1,0 +1,7 @@
+
+/Output/*.o 
+/Output/bin/*
+# can't be ignored
+!.gitignore
+!.gitkeep
+!makefile
